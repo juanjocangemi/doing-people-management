@@ -12,8 +12,8 @@ Due to this digital solution,
 - the team leader can know what each worker is doing,
 - what their progress is, 
 - assign tasks remotely, 
-- identify if they need help and, 
-- it allows him/her to identify the most efficient workers.
+- identify if they need help, 
+- identify the most efficient workers.
 
 [![DOING-WEB.png](https://i.postimg.cc/NfFCJnct/DOING-WEB.png)](https://postimg.cc/vcRvD3T2)
 
@@ -21,7 +21,7 @@ Due to this digital solution,
 
 [![2.png](https://i.postimg.cc/YCP12pjn/2.png)](https://postimg.cc/68d7Yxrn)
 
-In addition, the digital solution allows each worker to share their task planning
+In addition, the digital solution allows each worker to share their task planning/evolution.
 
 [![3.png](https://i.postimg.cc/3NKCvkK7/3.png)](https://postimg.cc/DJMXVyJY)
 
