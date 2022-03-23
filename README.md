@@ -6,7 +6,7 @@
 
 These are typical questions that a team leader asks himself and does not always get an answer. Or get them when it's too late.
 
-With these questions as a starting point, this web and mobile application called doing was born. 
+With these questions as a starting point, I designed this web/mobile application called doing, which won the first prize in the Competition of Digital Innovation of Bank Santander in 2016.
 
 Due to this digital solution, 
 - the team leader can know what each worker is doing,
